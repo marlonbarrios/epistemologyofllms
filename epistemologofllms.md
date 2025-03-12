@@ -1,4 +1,5 @@
-# Introduction to Epistemology and LLMs
+# Epistemology of Latent Space or the Gravity of Language
+by Marlon Barrios Solano
 
 Epistemology is the branch of philosophy concerned with the nature of knowledge – how we define it, how we acquire it, and how we justify believing something to be true. Classical epistemology has long grappled with questions of what knowledge truly is (often framed as “justified true belief”), how truth relates to belief, and the limits of human understanding. For example, Plato distinguished between *doxa* (mere opinion) and *episteme* (true knowledge), and Immanuel Kant later differentiated *a priori* knowledge (independent of experience) from *a posteriori* knowledge (derived from experience). These traditional concerns assume a human knower and a conscious mind navigating reality.
 
