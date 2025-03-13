@@ -127,3 +127,23 @@ The conversation between human epistemology and AI is just beginning, and it pro
 - **Searle, John R.** “Minds, Brains, and Programs.” *Behavioral and Brain Sciences* 3, no. 3 (1980): 417–424.
 - **Turing, Alan M.** “Computing Machinery and Intelligence.” *Mind* 59, no. 236 (1950): 433–460.
 - **Weizenbaum, Joseph.** *Computer Power and Human Reason: From Judgment to Calculation.* San Francisco: W. H. Freeman, 1976.
+
+- ## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
+
+### Attribution:
+- **Author:** [Your Name or GitHub Username]
+- **Date:** March 12, 2025
+- **Source:** [GitHub Repository Link]
+
+### You are free to:
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially  
+
+### Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  
+
+For more details, visit the official license page: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
