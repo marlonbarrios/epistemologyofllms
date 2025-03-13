@@ -5,7 +5,6 @@
 by Marlon Barrios Solano
 
 
-
 Epistemology is the branch of philosophy concerned with the nature of knowledge – how we define it, how we acquire it, and how we justify believing something to be true. Classical epistemology has long grappled with questions of what knowledge truly is (often framed as “justified true belief”), how truth relates to belief, and the limits of human understanding. For example, Plato distinguished between *doxa* (mere opinion) and *episteme* (true knowledge), and Immanuel Kant later differentiated *a priori* knowledge (independent of experience) from *a posteriori* knowledge (derived from experience). These traditional concerns assume a human knower and a conscious mind navigating reality.
 
 Large Language Models (LLMs) – such as GPT-style neural networks – complicate this classical picture. LLMs are artificial intelligence systems trained on vast corpora of text to predict and generate human-like language. They function by learning complex statistical patterns in language, allowing them to produce coherent sentences and answer questions in ways that often mimic understanding. Their emergence poses a challenge to traditional epistemic frameworks: if an AI can produce knowledgeable-sounding answers, does it “know” anything? LLMs have rapidly become part of daily life (in search engines, smartphones, chatbots), forcing epistemologists to confront new questions. Do these models truly possess knowledge or understanding, or are they merely advanced pattern-matching machines? As one article pointedly asks, “do LLMs truly possess knowledge, or are they merely executing sophisticated statistical pattern matching?” The intuitive worry is reminiscent of philosopher John Searle’s Chinese Room thought experiment, which argued that a computer following syntax rules (manipulating symbols) could appear to understand language without any real understanding or consciousness. Indeed, early AI systems were often dismissed as mere symbol manipulators with no grasp of meaning.
@@ -130,7 +129,7 @@ The conversation between human epistemology and AI is just beginning, and it pro
 
 - ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
+This essay is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
 
 ### Attribution:
 - **Author:** Marlon barrios solano
