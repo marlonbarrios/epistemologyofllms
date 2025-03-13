@@ -133,9 +133,8 @@ The conversation between human epistemology and AI is just beginning, and it pro
 This work is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
 
 ### Attribution:
-- **Author:** [Your Name or GitHub Username]
+- **Author:** Marlon barrios solano
 - **Date:** March 12, 2025
-- **Source:** [GitHub Repository Link]
 
 ### You are free to:
 - **Share** — copy and redistribute the material in any medium or format  
