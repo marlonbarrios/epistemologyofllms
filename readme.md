@@ -1,5 +1,7 @@
 # Epistemology of Latent Space or the Gravity of Language
 
+by Marlon barrios Solano
+
 ![Epistemology of Latent Space](images/image1.png)
 
 by Marlon Barrios Solano
